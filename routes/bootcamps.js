@@ -1,5 +1,5 @@
 const express = require('express');
-const { 
+const {
     getBootcamps,
     getBootcamp,
     createtBootcamp,
